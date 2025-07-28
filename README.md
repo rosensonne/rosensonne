@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/jesús-martínez-manchado-10263a137" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jesus.martinez@example.com">
+  <a href="mailto:jesus.martinez.m196@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
