@@ -1,7 +1,14 @@
-<!-- Encabezado tipo banner enlazado al portfolio -->
+<!-- Encabezado visual con logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rosensonne/rosensonne/main/logo-rs.png" width="140" alt="Jesús Logo" />
+</p>
+
+<h1 align="center">Hi, I'm Jesús 👋</h1>
+<h3 align="center">Backend Developer | Data Engineering Enthusiast</h3>
+
 <p align="center">
   <a href="https://portfolio-xi-ecru-28.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:0f0f0f&height=200&section=header&text=Hi,%20I'm%20Jesús%20👋%0ABackend%20Developer%20%7C%20Data%20Engineering%20Enthusiast&fontColor=ffffff&fontSize=28&animation=fadeIn&descAlignY=70" alt="banner" />
+    🌐 Visit my Portfolio
   </a>
 </p>
 
