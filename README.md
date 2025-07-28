@@ -1,6 +1,6 @@
-<!-- Encabezado visual con logo -->
+<!-- Encabezado visual tipo banner de ancho completo -->
 <p align="center">
-  <img src="./BannerGitHub.png" width="140" alt="Jesús Logo" />
+  <img src="./BannerGitHub.png" alt="Jesús Banner" style="max-width: 100%; width: 100%;" />
 </p>
 
 <h1 align="center">Hi, I'm Jesús 👋</h1>
@@ -38,12 +38,12 @@
 
 ## 🔧 What I Do
 
-- 🛠️ Backend Development in **Python** and **Java**
-- ⚙️ Building scalable **data pipelines** and data-driven systems
+- 🛠️ Backend development in **Python** and **Java**
+- ⚙️ Design and build scalable **data pipelines**
 - 🧠 Big Data processing with **Apache Spark**
-- ☁️ Cloud infrastructure and data services with **Microsoft Azure**
-- 🗃️ SQL database design and optimization (**PostgreSQL**, **SQLite**)
-- 📦 NoSQL databases (**MongoDB**, **document models**, **non-relational design**)
+- ☁️ Deploy and scale on **Microsoft Azure**
+- 🗃️ SQL database modeling and optimization (**PostgreSQL**, **SQLite**)
+- 📦 NoSQL and non-relational systems with **MongoDB**
 
 ---
 
