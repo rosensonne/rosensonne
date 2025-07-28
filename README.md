@@ -1,6 +1,6 @@
 <!-- Encabezado visual con logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rosensonne/rosensonne/main/logo-rs.png" width="140" alt="Jesús Logo" />
+  <img src="./LogoRosensonne.jpeg" width="140" alt="Jesús Logo" />
 </p>
 
 <h1 align="center">Hi, I'm Jesús 👋</h1>
