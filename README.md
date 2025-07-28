@@ -1,14 +1,15 @@
-<!-- Encabezado visual tipo banner de ancho completo -->
-<p align="center">
-  <img src="./BannerGitHub.png" alt="Jesús Banner" style="max-width: 100%; width: 100%;" />
-</p>
-
 <h1 align="center">Hi, I'm Jesús 👋</h1>
-<h3 align="center">Backend Developer | Data Engineering Enthusiast</h3>
+<h3 align="center">Backend Developer · Data Engineering Enthusiast 🚀</h3>
 
 <p align="center">
   <a href="https://portfolio-xi-ecru-28.vercel.app/" target="_blank">
-    🌐 Visit my Portfolio
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jesús-martínez-manchado-10263a137" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jesus.martinez@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -18,7 +19,7 @@
 
 🎓 I'm Jesús Martínez Manchado, a Backend Developer with a strong focus on **Data Engineering**.  
 💡 Passionate about turning raw data into scalable and intelligent systems.  
-🚀 Always exploring new technologies and best practices in backend architecture and data pipelines.  
+🔍 Curious, driven by automation, efficiency, and clean code.  
 🤝 Open to collaboration, freelancing, and new job opportunities.
 
 ---
@@ -26,12 +27,12 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40" alt="Apache Spark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40" alt="Microsoft Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" alt="Apache Spark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" alt="Microsoft Azure" />
 </p>
 
 ---
@@ -39,24 +40,19 @@
 ## 🔧 What I Do
 
 - 🛠️ Backend development in **Python** and **Java**
-- ⚙️ Design and build scalable **data pipelines**
+- ⚙️ Building scalable **data pipelines**
 - 🧠 Big Data processing with **Apache Spark**
-- ☁️ Deploy and scale on **Microsoft Azure**
-- 🗃️ SQL database modeling and optimization (**PostgreSQL**, **SQLite**)
-- 📦 NoSQL and non-relational systems with **MongoDB**
+- ☁️ Deploying solutions on **Microsoft Azure**
+- 🗃️ SQL/NoSQL database modeling (**PostgreSQL**, **MongoDB**)
 
 ---
 
 ## 📌 Highlight Projects
 
-Here are some of the projects I've worked on:
-
 - 🔹 **[App_LogiTrack](https://github.com/rosensonne/App_LogiTrack)** – Logistics tracking system (Java)
-- 🔹 **[HotelManagement](https://github.com/rosensonne/HotelManagement)** – Hotel reservation & management backend (Python)
-- 🔒 **SparkPipeline** – ETL pipeline for processing structured/unstructured data with Spark on Azure *(private)*
-- 🔒 **MongoDataExplorer** – Dynamic querying + aggregation dashboard using MongoDB *(private)*
-
-ℹ️ More coming soon...
+- 🔹 **[HotelManagement](https://github.com/rosensonne/HotelManagement)** – Hotel backend for reservations (Python)
+- 🔒 **SparkPipeline** – ETL pipeline on Azure with Spark *(private)*
+- 🔒 **MongoDataExplorer** – Dynamic dashboard for MongoDB *(private)*
 
 ---
 
@@ -69,20 +65,4 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://portfolio-xi-ecru-28.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:jesus.martinez@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/jesús-martínez-manchado-10263a137" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐️ *Thanks for visiting my GitHub profile!*
+⭐️ *Thanks for stopping by! Let’s build something together.*
