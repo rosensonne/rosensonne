@@ -65,4 +65,4 @@
 
 ---
 
-⭐️ *Thanks for stopping by! Let’s build something together.*
+⭐️ *Thanks for visiting my GitHub profile!*
