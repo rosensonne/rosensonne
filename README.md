@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Jesús 👋</h1>
-<h3 align="center">Backend Developer · Data Engineering Enthusiast 🚀</h3>
+<!-- Encabezado visual con banner -->
+<p align="center">
+  <img src="./01e7e839-c778-4015-922b-029e539db066.png" alt="Jesús Banner" style="width:100%;" />
+</p>
 
 <p align="center">
   <a href="https://portfolio-xi-ecru-28.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jesús%20Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jesús-martínez-manchado-10263a137" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jesus.martinez.m196@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
