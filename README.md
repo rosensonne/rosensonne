@@ -1,6 +1,6 @@
 <!-- Encabezado visual con banner -->
 <p align="center">
-  <img src="./01e7e839-c778-4015-922b-029e539db066.png" alt="Jesús Banner" style="width:100%;" />
+  <img src="./BannerGit.png" alt="Jesús Banner" style="width:100%;" />
 </p>
 
 <p align="center">
