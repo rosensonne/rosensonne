@@ -84,21 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rosensonne&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
-  
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosensonne&layout=compact&theme=github_dark&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <!-- Rachas de contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosensonne&theme=github-dark&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <!-- Trofeos de GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rosensonne&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rosensonne&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosensonne&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
 
 
