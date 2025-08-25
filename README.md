@@ -78,7 +78,7 @@
 - 🔹 **[HotelManagement](https://github.com/rosensonne/HotelManagement)** – Hotel backend for reservations (Python)
 - 🔒 **SparkPipeline** – ETL pipeline on Azure with Spark *(private)*
 - 🔒 **MongoDataExplorer** – Dynamic dashboard for MongoDB *(private)*
-- 🔒 **RaudaAI_MINI** – AI bot for ticket managementHaz *(private)*
+- 🔒 **RaudaAI_MINI** – AI bot for ticket management *(private)*
 
 
 ---
